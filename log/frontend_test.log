@@ -1,0 +1,24 @@
+Mar 03 05:28:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Mar 03 05:28:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:28:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:28:43 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Mar 03 05:28:43 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Mar 03 05:28:43 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:43 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:43 symfony [info] {sfWebResponse} Send content (770 o)
+Mar 03 05:28:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Mar 03 05:28:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:28:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:28:50 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 03 05:28:50 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 03 05:28:50 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:50 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:50 symfony [info] {sfWebResponse} Send content (373 o)
+Mar 03 05:28:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Mar 03 05:28:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:28:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:28:55 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 03 05:28:55 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 03 05:28:55 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:55 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 03 05:28:55 symfony [info] {sfWebResponse} Send content (369 o)

@@ -1,0 +1,10 @@
+casa:
+  familia:
+    apellido:      García
+    padres:        [Antonio, María]
+    hijos:         [Jose, Manuel, Carmen]
+  direccion:
+    numero:        34
+    calle:         Gran Vía
+    ciudad:        Cualquiera
+    codigopostal:  12345

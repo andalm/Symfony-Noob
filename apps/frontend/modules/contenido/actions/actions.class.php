@@ -19,6 +19,8 @@ class contenidoActions extends sfActions
 	public function executeActualizar($peticion)
 	{
 		$this->nombre = $peticion->getParameter('nombre');
-		//$this->peticion = var_dump($peticion);
+		echo sfConfig::get('app_tarjetascredito_falsa');
+		$prueba = sfYaml::load('prueba.yml');
+		print_r($prueba);
 	}
 }

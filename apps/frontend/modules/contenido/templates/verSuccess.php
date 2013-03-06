@@ -13,8 +13,7 @@
 		'class'    => 'enlace_especial',
 		'confirm'  => '¿Estás seguro?',
 		'absolute' => false
-	  ));
-  ?>
+	  ))?>
 </form>
 
 
