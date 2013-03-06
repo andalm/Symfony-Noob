@@ -1,0 +1,758 @@
+Feb 25 04:02:13 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:02:46 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:02:46 symfony [info] {sfFrontWebController} Action "contenido/ver" does not exist
+Feb 25 04:02:46 symfony [err] {sfError404Exception} Action "contenido/ver" does not exist.
+Feb 25 04:02:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:02:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:02:46 symfony [info] {sfWebDebugLogger} Configuration 26.67 ms (5)
+Feb 25 04:02:46 symfony [info] {sfWebDebugLogger} Factories 151.38 ms (1)
+Feb 25 04:05:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:05:16 symfony [info] {sfFrontWebController} Action "contenido/ver" does not exist
+Feb 25 04:05:16 symfony [err] {sfError404Exception} Action "contenido/ver" does not exist.
+Feb 25 04:05:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:05:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:05:16 symfony [info] {sfWebDebugLogger} Configuration 20.23 ms (5)
+Feb 25 04:05:16 symfony [info] {sfWebDebugLogger} Factories 153.57 ms (1)
+Feb 25 04:05:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:05:37 symfony [info] {sfFrontWebController} Action "contenido/ver" does not exist
+Feb 25 04:05:37 symfony [err] {sfError404Exception} Action "contenido/ver" does not exist.
+Feb 25 04:05:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:05:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:05:37 symfony [info] {sfWebDebugLogger} Configuration 40.35 ms (5)
+Feb 25 04:05:37 symfony [info] {sfWebDebugLogger} Factories 158.29 ms (1)
+Feb 25 04:26:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:26:44 symfony [info] {sfFrontWebController} Action "contenido/ver" does not exist
+Feb 25 04:26:44 symfony [err] {sfError404Exception} Action "contenido/ver" does not exist.
+Feb 25 04:26:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:26:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:26:45 symfony [info] {sfWebDebugLogger} Configuration 753.41 ms (5)
+Feb 25 04:26:45 symfony [info] {sfWebDebugLogger} Factories 702.01 ms (1)
+Feb 25 04:30:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:30:32 symfony [info] {sfFrontWebController} Action "contenido/ver" does not exist
+Feb 25 04:30:32 symfony [err] {sfError404Exception} Action "contenido/ver" does not exist.
+Feb 25 04:30:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:30:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:30:32 symfony [info] {sfWebDebugLogger} Configuration 30.49 ms (5)
+Feb 25 04:30:32 symfony [info] {sfWebDebugLogger} Factories 149.12 ms (1)
+Feb 25 04:31:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:31:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:31:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:31:07 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:31:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:31:07 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:31:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:31:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:31:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:31:07 symfony [info] {sfWebDebugLogger} Configuration 155.64 ms (10)
+Feb 25 04:31:07 symfony [info] {sfWebDebugLogger} Factories 145.29 ms (1)
+Feb 25 04:31:07 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.55 ms (1)
+Feb 25 04:31:07 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 65.49 ms (1)
+Feb 25 04:31:07 symfony [info] {sfWebResponse} Send content (28901 o)
+Feb 25 04:31:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:31:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:31:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:31:37 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:31:37 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:31:37 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:31:37 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:31:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:31:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:31:37 symfony [info] {sfWebDebugLogger} Configuration 68.15 ms (9)
+Feb 25 04:31:37 symfony [info] {sfWebDebugLogger} Factories 141.07 ms (1)
+Feb 25 04:31:37 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.46 ms (1)
+Feb 25 04:31:37 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 60.54 ms (1)
+Feb 25 04:31:37 symfony [info] {sfWebResponse} Send content (28961 o)
+Feb 25 04:32:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:32:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:32:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:32:44 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:32:44 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:32:44 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:32:44 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:32:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:32:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:32:44 symfony [info] {sfWebDebugLogger} Configuration 58.46 ms (9)
+Feb 25 04:32:44 symfony [info] {sfWebDebugLogger} Factories 144.42 ms (1)
+Feb 25 04:32:44 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 04:32:44 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 66.00 ms (1)
+Feb 25 04:32:44 symfony [info] {sfWebResponse} Send content (28962 o)
+Feb 25 04:33:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:33:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:33:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:33:05 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:33:05 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:33:05 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:33:05 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:33:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:33:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:33:05 symfony [info] {sfWebDebugLogger} Configuration 54.78 ms (9)
+Feb 25 04:33:05 symfony [info] {sfWebDebugLogger} Factories 143.65 ms (1)
+Feb 25 04:33:05 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.35 ms (1)
+Feb 25 04:33:05 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 57.64 ms (1)
+Feb 25 04:33:05 symfony [info] {sfWebResponse} Send content (28962 o)
+Feb 25 04:36:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:36:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:36:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:36:45 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:36:45 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:36:45 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:36:45 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:36:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:36:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:36:45 symfony [info] {sfWebDebugLogger} Configuration 54.24 ms (9)
+Feb 25 04:36:45 symfony [info] {sfWebDebugLogger} Factories 150.22 ms (1)
+Feb 25 04:36:45 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 04:36:45 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 60.65 ms (1)
+Feb 25 04:36:45 symfony [info] {sfWebResponse} Send content (29217 o)
+Feb 25 04:36:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 04:36:51 symfony [info] {sfFrontWebController} Action "contenido/actualizar" does not exist
+Feb 25 04:36:51 symfony [err] {sfError404Exception} Action "contenido/actualizar" does not exist.
+Feb 25 04:36:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:36:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:36:51 symfony [info] {sfWebDebugLogger} Configuration 28.04 ms (5)
+Feb 25 04:36:51 symfony [info] {sfWebDebugLogger} Factories 131.66 ms (1)
+Feb 25 04:40:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 04:40:33 symfony [info] {sfFrontWebController} Action "contenido/actualizar" does not exist
+Feb 25 04:40:33 symfony [err] {sfError404Exception} Action "contenido/actualizar" does not exist.
+Feb 25 04:40:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:40:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:40:33 symfony [info] {sfWebDebugLogger} Configuration 23.05 ms (5)
+Feb 25 04:40:33 symfony [info] {sfWebDebugLogger} Factories 138.32 ms (1)
+Feb 25 04:41:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 04:41:34 symfony [info] {sfFrontWebController} Action "contenido/actualizar" does not exist
+Feb 25 04:41:34 symfony [err] {sfError404Exception} Action "contenido/actualizar" does not exist.
+Feb 25 04:41:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:41:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:41:34 symfony [info] {sfWebDebugLogger} Configuration 28.76 ms (5)
+Feb 25 04:41:34 symfony [info] {sfWebDebugLogger} Factories 132.35 ms (1)
+Feb 25 04:42:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 04:42:01 symfony [info] {sfFrontWebController} Action "contenido/actualizar" does not exist
+Feb 25 04:42:01 symfony [err] {sfError404Exception} Action "contenido/actualizar" does not exist.
+Feb 25 04:42:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:42:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:42:01 symfony [info] {sfWebDebugLogger} Configuration 24.12 ms (5)
+Feb 25 04:42:01 symfony [info] {sfWebDebugLogger} Factories 133.24 ms (1)
+Feb 25 04:42:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:42:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:42:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:42:07 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:42:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:42:07 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:42:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:42:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:42:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:42:07 symfony [info] {sfWebDebugLogger} Configuration 45.01 ms (9)
+Feb 25 04:42:07 symfony [info] {sfWebDebugLogger} Factories 141.60 ms (1)
+Feb 25 04:42:07 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.56 ms (1)
+Feb 25 04:42:07 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 49.37 ms (1)
+Feb 25 04:42:07 symfony [info] {sfWebResponse} Send content (29185 o)
+Feb 25 04:42:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonymous with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonymous',)
+Feb 25 04:42:10 symfony [info] {sfFrontWebController} Action "contenido/actualizar" does not exist
+Feb 25 04:42:10 symfony [err] {sfError404Exception} Action "contenido/actualizar" does not exist.
+Feb 25 04:42:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 25 04:42:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:42:10 symfony [info] {sfWebDebugLogger} Configuration 46.83 ms (5)
+Feb 25 04:42:10 symfony [info] {sfWebDebugLogger} Factories 574.55 ms (1)
+Feb 25 04:45:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonymous with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonymous',)
+Feb 25 04:45:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:10 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 04:45:10 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 04:45:10 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:10 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:10 symfony [info] {sfWebDebugLogger} Configuration 45.94 ms (9)
+Feb 25 04:45:10 symfony [info] {sfWebDebugLogger} Factories 150.76 ms (1)
+Feb 25 04:45:10 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.31 ms (1)
+Feb 25 04:45:10 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 61.83 ms (1)
+Feb 25 04:45:10 symfony [info] {sfWebResponse} Send content (29177 o)
+Feb 25 04:45:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:45:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:22 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:45:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:45:22 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:22 symfony [info] {sfWebDebugLogger} Configuration 41.53 ms (9)
+Feb 25 04:45:22 symfony [info] {sfWebDebugLogger} Factories 134.83 ms (1)
+Feb 25 04:45:22 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 04:45:22 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 67.10 ms (1)
+Feb 25 04:45:22 symfony [info] {sfWebResponse} Send content (29185 o)
+Feb 25 04:45:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 04:45:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:38 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 04:45:38 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 04:45:38 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:38 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:38 symfony [info] {sfWebDebugLogger} Configuration 49.69 ms (9)
+Feb 25 04:45:38 symfony [info] {sfWebDebugLogger} Factories 131.85 ms (1)
+Feb 25 04:45:38 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.31 ms (1)
+Feb 25 04:45:38 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 55.29 ms (1)
+Feb 25 04:45:38 symfony [info] {sfWebResponse} Send content (29180 o)
+Feb 25 04:45:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:45:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:44 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:45:44 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:45:44 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:44 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:44 symfony [info] {sfWebDebugLogger} Configuration 49.82 ms (9)
+Feb 25 04:45:44 symfony [info] {sfWebDebugLogger} Factories 142.27 ms (1)
+Feb 25 04:45:44 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.35 ms (1)
+Feb 25 04:45:44 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 55.95 ms (1)
+Feb 25 04:45:44 symfony [info] {sfWebResponse} Send content (29184 o)
+Feb 25 04:45:46 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonymous with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonymous',)
+Feb 25 04:45:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:47 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 04:45:47 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 04:45:47 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:47 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:47 symfony [info] {sfWebDebugLogger} Configuration 49.63 ms (9)
+Feb 25 04:45:47 symfony [info] {sfWebDebugLogger} Factories 657.99 ms (1)
+Feb 25 04:45:47 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.56 ms (1)
+Feb 25 04:45:47 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 57.48 ms (1)
+Feb 25 04:45:47 symfony [info] {sfWebResponse} Send content (29143 o)
+Feb 25 04:45:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:45:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:45:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:45:50 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:45:50 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:45:50 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:50 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:45:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:45:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:45:50 symfony [info] {sfWebDebugLogger} Configuration 51.78 ms (9)
+Feb 25 04:45:50 symfony [info] {sfWebDebugLogger} Factories 158.20 ms (1)
+Feb 25 04:45:50 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 04:45:50 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 65.75 ms (1)
+Feb 25 04:45:51 symfony [info] {sfWebResponse} Send content (29185 o)
+Feb 25 04:48:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:48:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:48:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:48:33 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:48:33 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:48:33 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:48:33 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:48:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:48:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:48:33 symfony [info] {sfWebDebugLogger} Configuration 52.53 ms (9)
+Feb 25 04:48:33 symfony [info] {sfWebDebugLogger} Factories 143.06 ms (1)
+Feb 25 04:48:33 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.35 ms (1)
+Feb 25 04:48:33 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 67.69 ms (1)
+Feb 25 04:48:33 symfony [info] {sfWebResponse} Send content (29330 o)
+Feb 25 04:49:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:49:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:49:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:49:11 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:49:11 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:49:11 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:49:11 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:49:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:49:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:49:11 symfony [info] {sfWebDebugLogger} Configuration 46.32 ms (9)
+Feb 25 04:49:11 symfony [info] {sfWebDebugLogger} Factories 139.71 ms (1)
+Feb 25 04:49:11 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.58 ms (1)
+Feb 25 04:49:11 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 63.42 ms (1)
+Feb 25 04:49:11 symfony [info] {sfWebResponse} Send content (29328 o)
+Feb 25 04:49:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:49:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:49:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:49:51 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:49:51 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:49:51 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:49:51 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:49:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:49:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:49:51 symfony [info] {sfWebDebugLogger} Configuration 40.87 ms (9)
+Feb 25 04:49:51 symfony [info] {sfWebDebugLogger} Factories 149.43 ms (1)
+Feb 25 04:49:51 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 04:49:51 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 52.72 ms (1)
+Feb 25 04:49:51 symfony [info] {sfWebResponse} Send content (29235 o)
+Feb 25 04:50:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Feb 25 04:50:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:50:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:50:22 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 04:50:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 04:50:22 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:50:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:50:22 symfony [info] {sfWebDebugLogger} Configuration 32.31 ms (9)
+Feb 25 04:50:22 symfony [info] {sfWebDebugLogger} Factories 141.96 ms (1)
+Feb 25 04:50:22 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.32 ms (1)
+Feb 25 04:50:22 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 49.81 ms (1)
+Feb 25 04:50:22 symfony [info] {sfWebResponse} Send content (29130 o)
+Feb 25 04:50:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:50:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:50:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:50:25 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:50:25 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:50:25 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:25 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:50:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:50:25 symfony [info] {sfWebDebugLogger} Configuration 48.70 ms (9)
+Feb 25 04:50:25 symfony [info] {sfWebDebugLogger} Factories 156.10 ms (1)
+Feb 25 04:50:25 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.61 ms (1)
+Feb 25 04:50:25 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 66.27 ms (1)
+Feb 25 04:50:25 symfony [info] {sfWebResponse} Send content (29204 o)
+Feb 25 04:50:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Feb 25 04:50:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:50:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:50:29 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 04:50:29 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 04:50:29 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:29 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:50:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:50:29 symfony [info] {sfWebDebugLogger} Configuration 32.61 ms (9)
+Feb 25 04:50:29 symfony [info] {sfWebDebugLogger} Factories 137.91 ms (1)
+Feb 25 04:50:29 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.61 ms (1)
+Feb 25 04:50:29 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 50.97 ms (1)
+Feb 25 04:50:29 symfony [info] {sfWebResponse} Send content (29130 o)
+Feb 25 04:50:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 04:50:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 04:50:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 04:50:34 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 04:50:34 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 04:50:34 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:34 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 04:50:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 04:50:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 04:50:34 symfony [info] {sfWebDebugLogger} Configuration 51.36 ms (9)
+Feb 25 04:50:34 symfony [info] {sfWebDebugLogger} Factories 146.34 ms (1)
+Feb 25 04:50:34 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.37 ms (1)
+Feb 25 04:50:34 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 60.74 ms (1)
+Feb 25 04:50:34 symfony [info] {sfWebResponse} Send content (29204 o)
+Feb 25 05:02:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:02:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:02:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:02:56 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:02:56 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:02:56 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:02:56 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:02:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:02:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:02:56 symfony [info] {sfWebDebugLogger} Configuration 37.11 ms (9)
+Feb 25 05:02:56 symfony [info] {sfWebDebugLogger} Factories 151.37 ms (1)
+Feb 25 05:02:56 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.35 ms (1)
+Feb 25 05:02:56 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 52.70 ms (1)
+Feb 25 05:02:56 symfony [info] {sfWebResponse} Send content (29312 o)
+Feb 25 05:03:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Feb 25 05:03:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:03:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:03:36 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:03:36 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\request\sfRequest.class.php on line 255 (Missing argument 1 for sfRequest::getParameter(), called in C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules\contenido\actions\actions.class.php on line 21 and defined)
+Feb 25 05:03:36 symfony [notice] {sfWebDebugLogger}  Notice at C:\xampp\php\pear\symfony\request\sfRequest.class.php on line 257 (Undefined variable: name)
+Feb 25 05:03:36 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:03:36 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:03:36 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:03:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:03:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:03:36 symfony [info] {sfWebDebugLogger} Configuration 48.77 ms (9)
+Feb 25 05:03:36 symfony [info] {sfWebDebugLogger} Factories 131.06 ms (1)
+Feb 25 05:03:36 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 58.99 ms (1)
+Feb 25 05:03:36 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 61.48 ms (1)
+Feb 25 05:03:36 symfony [info] {sfWebResponse} Send content (29180 o)
+Feb 25 05:04:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:04:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:04:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:04:03 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:04:03 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:04:03 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:04:03 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:04:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:04:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:04:03 symfony [info] {sfWebDebugLogger} Configuration 51.58 ms (9)
+Feb 25 05:04:03 symfony [info] {sfWebDebugLogger} Factories 148.91 ms (1)
+Feb 25 05:04:03 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.37 ms (1)
+Feb 25 05:04:03 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 58.74 ms (1)
+Feb 25 05:04:03 symfony [info] {sfWebResponse} Send content (29281 o)
+Feb 25 05:04:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:04:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:04:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:04:07 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:04:07 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\request\sfRequest.class.php on line 255 (Missing argument 1 for sfRequest::getParameter(), called in C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules\contenido\actions\actions.class.php on line 21 and defined)
+Feb 25 05:04:07 symfony [notice] {sfWebDebugLogger}  Notice at C:\xampp\php\pear\symfony\request\sfRequest.class.php on line 257 (Undefined variable: name)
+Feb 25 05:04:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:04:07 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:04:07 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:04:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:04:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:04:07 symfony [info] {sfWebDebugLogger} Configuration 50.45 ms (9)
+Feb 25 05:04:07 symfony [info] {sfWebDebugLogger} Factories 131.37 ms (1)
+Feb 25 05:04:07 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 2.87 ms (1)
+Feb 25 05:04:07 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 55.39 ms (1)
+Feb 25 05:04:07 symfony [info] {sfWebResponse} Send content (29220 o)
+Feb 25 05:05:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:05:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:05:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:05:03 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:05:03 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:05:03 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:03 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:05:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:05:03 symfony [info] {sfWebDebugLogger} Configuration 52.82 ms (9)
+Feb 25 05:05:03 symfony [info] {sfWebDebugLogger} Factories 148.26 ms (1)
+Feb 25 05:05:03 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.36 ms (1)
+Feb 25 05:05:03 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 60.83 ms (1)
+Feb 25 05:05:03 symfony [info] {sfWebResponse} Send content (29222 o)
+Feb 25 05:05:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:05:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:05:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:05:10 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:05:10 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:05:10 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:10 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:05:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:05:10 symfony [info] {sfWebDebugLogger} Configuration 39.62 ms (9)
+Feb 25 05:05:10 symfony [info] {sfWebDebugLogger} Factories 144.01 ms (1)
+Feb 25 05:05:10 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.62 ms (1)
+Feb 25 05:05:10 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 55.30 ms (1)
+Feb 25 05:05:10 symfony [info] {sfWebResponse} Send content (29280 o)
+Feb 25 05:05:15 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Feb 25 05:05:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:05:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:05:15 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:05:15 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:05:15 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:15 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:05:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:05:15 symfony [info] {sfWebDebugLogger} Configuration 53.10 ms (9)
+Feb 25 05:05:15 symfony [info] {sfWebDebugLogger} Factories 136.29 ms (1)
+Feb 25 05:05:15 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.36 ms (1)
+Feb 25 05:05:15 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 57.18 ms (1)
+Feb 25 05:05:15 symfony [info] {sfWebResponse} Send content (29180 o)
+Feb 25 05:05:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:05:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:05:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:05:21 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:05:21 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:05:21 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:21 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:05:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:05:21 symfony [info] {sfWebDebugLogger} Configuration 54.18 ms (9)
+Feb 25 05:05:21 symfony [info] {sfWebDebugLogger} Factories 151.52 ms (1)
+Feb 25 05:05:21 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.37 ms (1)
+Feb 25 05:05:21 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 60.53 ms (1)
+Feb 25 05:05:21 symfony [info] {sfWebResponse} Send content (29281 o)
+Feb 25 05:05:30 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:05:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:05:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:05:30 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:05:30 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:05:30 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:30 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:05:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:05:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:05:30 symfony [info] {sfWebDebugLogger} Configuration 48.64 ms (9)
+Feb 25 05:05:30 symfony [info] {sfWebDebugLogger} Factories 141.04 ms (1)
+Feb 25 05:05:30 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.37 ms (1)
+Feb 25 05:05:30 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 58.83 ms (1)
+Feb 25 05:05:30 symfony [info] {sfWebResponse} Send content (29228 o)
+Feb 25 05:06:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:06:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:06:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:06:20 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:06:20 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:06:20 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:06:20 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:06:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:06:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:06:20 symfony [info] {sfWebDebugLogger} Configuration 56.33 ms (9)
+Feb 25 05:06:20 symfony [info] {sfWebDebugLogger} Factories 153.16 ms (1)
+Feb 25 05:06:20 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.36 ms (1)
+Feb 25 05:06:20 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 58.90 ms (1)
+Feb 25 05:06:20 symfony [info] {sfWebResponse} Send content (29281 o)
+Feb 25 05:06:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:06:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:06:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:06:42 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:06:42 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:06:42 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:06:42 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:06:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:06:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:06:42 symfony [info] {sfWebDebugLogger} Configuration 46.36 ms (9)
+Feb 25 05:06:42 symfony [info] {sfWebDebugLogger} Factories 159.55 ms (1)
+Feb 25 05:06:42 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.61 ms (1)
+Feb 25 05:06:42 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 60.70 ms (1)
+Feb 25 05:06:42 symfony [info] {sfWebResponse} Send content (29296 o)
+Feb 25 05:08:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:08:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:08:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:08:29 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:08:29 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:08:29 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:29 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:08:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:08:29 symfony [info] {sfWebDebugLogger} Configuration 47.06 ms (9)
+Feb 25 05:08:29 symfony [info] {sfWebDebugLogger} Factories 145.05 ms (1)
+Feb 25 05:08:29 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.60 ms (1)
+Feb 25 05:08:29 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 56.92 ms (1)
+Feb 25 05:08:29 symfony [info] {sfWebResponse} Send content (29228 o)
+Feb 25 05:08:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:08:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:08:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:08:48 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Configuration 54.56 ms (9)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Factories 223.05 ms (1)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.57 ms (1)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 87.27 ms (1)
+Feb 25 05:08:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send content (29267 o)
+Feb 25 05:08:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:08:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:08:48 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:48 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Configuration 85.97 ms (9)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Factories 209.08 ms (1)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.56 ms (1)
+Feb 25 05:08:48 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 64.13 ms (1)
+Feb 25 05:08:48 symfony [info] {sfWebResponse} Send content (29269 o)
+Feb 25 05:08:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:08:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:08:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:08:52 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:08:52 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:08:52 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:52 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:08:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:08:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:08:52 symfony [info] {sfWebDebugLogger} Configuration 61.92 ms (9)
+Feb 25 05:08:52 symfony [info] {sfWebDebugLogger} Factories 165.96 ms (1)
+Feb 25 05:08:52 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.35 ms (1)
+Feb 25 05:08:52 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 69.31 ms (1)
+Feb 25 05:08:53 symfony [info] {sfWebResponse} Send content (29228 o)
+Feb 25 05:13:18 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:13:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:13:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:13:18 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:13:18 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:13:18 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:18 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:13:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:13:18 symfony [info] {sfWebDebugLogger} Configuration 51.93 ms (9)
+Feb 25 05:13:18 symfony [info] {sfWebDebugLogger} Factories 157.12 ms (1)
+Feb 25 05:13:18 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.41 ms (1)
+Feb 25 05:13:18 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 62.04 ms (1)
+Feb 25 05:13:18 symfony [info] {sfWebResponse} Send content (29269 o)
+Feb 25 05:13:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Feb 25 05:13:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:13:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:13:22 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:13:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:13:22 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\escaper\sfOutputEscaper.class.php on line 92 (call_user_func() expects parameter 1 to be a valid callback, function 'Anonimo' not found or invalid function name)
+Feb 25 05:13:22 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:22 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:13:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:13:22 symfony [info] {sfWebDebugLogger} Configuration 49.81 ms (9)
+Feb 25 05:13:22 symfony [info] {sfWebDebugLogger} Factories 147.68 ms (1)
+Feb 25 05:13:22 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.37 ms (1)
+Feb 25 05:13:22 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 58.51 ms (1)
+Feb 25 05:13:22 symfony [info] {sfWebResponse} Send content (29402 o)
+Feb 25 05:13:58 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Feb 25 05:13:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:13:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:13:58 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Feb 25 05:13:58 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Feb 25 05:13:58 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:58 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:13:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:13:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:13:58 symfony [info] {sfWebDebugLogger} Configuration 49.72 ms (9)
+Feb 25 05:13:58 symfony [info] {sfWebDebugLogger} Factories 157.53 ms (1)
+Feb 25 05:13:58 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.55 ms (1)
+Feb 25 05:13:58 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 56.35 ms (1)
+Feb 25 05:13:58 symfony [info] {sfWebResponse} Send content (29269 o)
+Feb 25 05:14:00 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:14:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:14:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:14:01 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:14:01 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:14:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\escaper\sfOutputEscaper.class.php on line 92 (call_user_func() expects parameter 1 to be a valid callback, function 'Anonimo' not found or invalid function name)
+Feb 25 05:14:01 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:14:01 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:14:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:14:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:14:01 symfony [info] {sfWebDebugLogger} Configuration 50.62 ms (9)
+Feb 25 05:14:01 symfony [info] {sfWebDebugLogger} Factories 572.00 ms (1)
+Feb 25 05:14:01 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.36 ms (1)
+Feb 25 05:14:01 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 55.47 ms (1)
+Feb 25 05:14:01 symfony [info] {sfWebResponse} Send content (29449 o)
+Feb 25 05:14:23 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Feb 25 05:14:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 25 05:14:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 25 05:14:24 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Feb 25 05:14:24 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Feb 25 05:14:24 symfony [info] {sfPHPView} Decorate content with "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:14:24 symfony [info] {sfPHPView} Render "C:\Users\Administrador\Desktop\proyectoSymfony\prueba\apps\frontend\templates/layout.php"
+Feb 25 05:14:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 25 05:14:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 25 05:14:24 symfony [info] {sfWebDebugLogger} Configuration 42.79 ms (9)
+Feb 25 05:14:24 symfony [info] {sfWebDebugLogger} Factories 138.95 ms (1)
+Feb 25 05:14:24 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.35 ms (1)
+Feb 25 05:14:24 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 59.38 ms (1)
+Feb 25 05:14:24 symfony [info] {sfWebResponse} Send content (29228 o)
+Mar 01 23:40:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Mar 01 23:40:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:40:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:40:47 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Mar 01 23:40:47 symfony [info] {sfPHPView} Render "C:\xampp\php\pear\symfony/controller/default/templates/indexSuccess.php"
+Mar 01 23:40:47 symfony [info] {sfPHPView} Decorate content with "C:\xampp\php\pear\symfony\controller\default\templates/defaultLayout.php"
+Mar 01 23:40:47 symfony [info] {sfPHPView} Render "C:\xampp\php\pear\symfony\controller\default\templates/defaultLayout.php"
+Mar 01 23:40:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:40:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:40:47 symfony [info] {sfWebDebugLogger} Configuration 849.72 ms (9)
+Mar 01 23:40:47 symfony [info] {sfWebDebugLogger} Factories 1015.47 ms (1)
+Mar 01 23:40:47 symfony [info] {sfWebDebugLogger} Action "default/index" 0.15 ms (1)
+Mar 01 23:40:47 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 328.70 ms (1)
+Mar 01 23:40:47 symfony [info] {sfWebResponse} Send content (29602 o)
+Mar 01 23:41:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /actualizar with parameters array (  'module' => 'actualizar',  'action' => 'index',)
+Mar 01 23:41:03 symfony [info] {sfFrontWebController} Action "actualizar/index" does not exist
+Mar 01 23:41:03 symfony [err] {sfError404Exception} Action "actualizar/index" does not exist.
+Mar 01 23:41:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 01 23:41:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:41:03 symfony [info] {sfWebDebugLogger} Configuration 12.33 ms (5)
+Mar 01 23:41:03 symfony [info] {sfWebDebugLogger} Factories 81.01 ms (1)
+Mar 01 23:41:30 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Mar 01 23:41:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:41:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:41:30 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 01 23:41:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 01 23:41:31 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:41:31 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:41:31 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules\contenido\actions\actions.class.php:22))
+Mar 01 23:41:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:41:31 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\php\pear\symfony\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules\contenido\actions\actions.class.php:22))
+Mar 01 23:41:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:41:31 symfony [info] {sfWebDebugLogger} Configuration 104.49 ms (10)
+Mar 01 23:41:31 symfony [info] {sfWebDebugLogger} Factories 81.44 ms (1)
+Mar 01 23:41:31 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 82.11 ms (1)
+Mar 01 23:41:31 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 48.99 ms (1)
+Mar 01 23:41:31 symfony [info] {sfWebResponse} Send content (28437 o)
+Mar 01 23:42:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Mar 01 23:42:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:02 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 01 23:42:02 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 01 23:42:02 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:02 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:02 symfony [info] {sfWebDebugLogger} Configuration 37.59 ms (9)
+Mar 01 23:42:02 symfony [info] {sfWebDebugLogger} Factories 86.38 ms (1)
+Mar 01 23:42:02 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.17 ms (1)
+Mar 01 23:42:02 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 39.98 ms (1)
+Mar 01 23:42:02 symfony [info] {sfWebResponse} Send content (28386 o)
+Mar 01 23:42:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/andres with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'andres' => true,)
+Mar 01 23:42:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:08 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 01 23:42:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 01 23:42:08 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:08 symfony [info] {sfWebDebugLogger} Configuration 35.00 ms (9)
+Mar 01 23:42:08 symfony [info] {sfWebDebugLogger} Factories 80.27 ms (1)
+Mar 01 23:42:08 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.17 ms (1)
+Mar 01 23:42:08 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 38.64 ms (1)
+Mar 01 23:42:08 symfony [info] {sfWebResponse} Send content (28436 o)
+Mar 01 23:42:14 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Mar 01 23:42:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:14 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Mar 01 23:42:14 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Mar 01 23:42:14 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:14 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:14 symfony [info] {sfWebDebugLogger} Configuration 21.61 ms (9)
+Mar 01 23:42:14 symfony [info] {sfWebDebugLogger} Factories 76.44 ms (1)
+Mar 01 23:42:14 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.20 ms (1)
+Mar 01 23:42:14 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 43.04 ms (1)
+Mar 01 23:42:14 symfony [info] {sfWebResponse} Send content (28718 o)
+Mar 01 23:42:19 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar with parameters array (  'module' => 'contenido',  'action' => 'actualizar',)
+Mar 01 23:42:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:19 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 01 23:42:19 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 01 23:42:19 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:19 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:19 symfony [info] {sfWebDebugLogger} Configuration 24.19 ms (9)
+Mar 01 23:42:19 symfony [info] {sfWebDebugLogger} Factories 81.38 ms (1)
+Mar 01 23:42:19 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.17 ms (1)
+Mar 01 23:42:19 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 22.87 ms (1)
+Mar 01 23:42:19 symfony [info] {sfWebResponse} Send content (28620 o)
+Mar 01 23:42:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Mar 01 23:42:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:29 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Mar 01 23:42:29 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Mar 01 23:42:29 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:29 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:29 symfony [info] {sfWebDebugLogger} Configuration 22.91 ms (9)
+Mar 01 23:42:29 symfony [info] {sfWebDebugLogger} Factories 76.93 ms (1)
+Mar 01 23:42:29 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.17 ms (1)
+Mar 01 23:42:29 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 22.75 ms (1)
+Mar 01 23:42:29 symfony [info] {sfWebResponse} Send content (28723 o)
+Mar 01 23:42:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/actualizar/nombre/anonimo with parameters array (  'module' => 'contenido',  'action' => 'actualizar',  'nombre' => 'anonimo',)
+Mar 01 23:42:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:32 symfony [info] {contenidoActions} Call "contenidoActions->executeActualizar()"
+Mar 01 23:42:32 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/actualizarSuccess.php"
+Mar 01 23:42:32 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:32 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:32 symfony [info] {sfWebDebugLogger} Configuration 22.61 ms (9)
+Mar 01 23:42:32 symfony [info] {sfWebDebugLogger} Factories 76.62 ms (1)
+Mar 01 23:42:32 symfony [info] {sfWebDebugLogger} Action "contenido/actualizar" 0.17 ms (1)
+Mar 01 23:42:32 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/actualizar" 23.51 ms (1)
+Mar 01 23:42:32 symfony [info] {sfWebResponse} Send content (28572 o)
+Mar 01 23:42:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contenido/ver with parameters array (  'module' => 'contenido',  'action' => 'ver',)
+Mar 01 23:42:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:42:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:42:34 symfony [info] {contenidoActions} Call "contenidoActions->executeVer()"
+Mar 01 23:42:34 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\modules/contenido/templates/verSuccess.php"
+Mar 01 23:42:34 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:34 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\proyectosSymfony\prueba\apps\frontend\templates/layout.php"
+Mar 01 23:42:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:42:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:42:34 symfony [info] {sfWebDebugLogger} Configuration 22.89 ms (9)
+Mar 01 23:42:34 symfony [info] {sfWebDebugLogger} Factories 75.59 ms (1)
+Mar 01 23:42:34 symfony [info] {sfWebDebugLogger} Action "contenido/ver" 0.17 ms (1)
+Mar 01 23:42:34 symfony [info] {sfWebDebugLogger} View "Success" for "contenido/ver" 25.16 ms (1)
+Mar 01 23:42:34 symfony [info] {sfWebResponse} Send content (28723 o)
