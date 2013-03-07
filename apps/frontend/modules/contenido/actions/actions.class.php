@@ -20,7 +20,5 @@ class contenidoActions extends sfActions
 	{
 		$this->nombre = $peticion->getParameter('nombre');
 		echo sfConfig::get('app_tarjetascredito_falsa');
-		$prueba = sfYaml::load('prueba.yml');
-		print_r($prueba);
 	}
 }
