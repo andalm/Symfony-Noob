@@ -3,3 +3,5 @@
 <?php else: ?>
   <p>¡Hola, Anonimo!</p>
 <?php endif; ?>
+<p>Esto es una variable: "<?php echo $parametro; ?>"</p>
+
