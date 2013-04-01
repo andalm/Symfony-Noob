@@ -44,6 +44,36 @@ class contenidoActions extends sfActions
 		
 	}
 	
+	public function executeSetUsuario($peticion)
+	{
+		if( $peticion->hasParameter('nombre') && !$this->getUser()->isAuthenticated() )
+		{
+			$nombreEnviado = $peticion->getParameter('nombre');
+			// Guardar información en la sesión del usuario
+			$this->getUser()->setAttribute('nombre', $nombreEnviado);
+			// Autenticar usuario para tener acceso a areas restringidas
+			$this->getUser()->setAuthenticated(true);
+			$this->redirect('contenido/GetUsuario');			
+		}
+	}
+	
+	public function executeGetUsuario($peticion)
+	{
+		// Obtener información de la sesión del usuario con un valor por defecto
+		$this->nombre = $this->getUser()->getAttribute('nombre', 'Anónimo');
+	}
+	
+	public function executeDestroyUser($peticion)
+	{
+		//Eliminar algunos atributos de usaurio
+		//$this->getUser()->getAttributeHolder()->remove('nombre');
+		//Limpiar totalmente 
+		$this->getUser()->getAttributeHolder()->clear();
+		//Quitar acceso
+		$this->getUser()->setAuthenticated(false);
+		$this->redirect('contenido/SetUsuario');
+	}
+	
 	public function executeCabecera()
 	{
 		$salida = '<"titulo","Mi carta sencilla"],["nombre","Sr. Pérez">';

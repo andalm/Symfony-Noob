@@ -3,3 +3,12 @@
 
 default:
   is_secure: false
+
+setUsuario:
+  is_secure: false
+
+getUsuario:
+  is_secure: true
+
+DestroyUser:
+  is_secure: true
